@@ -1,0 +1,47 @@
+
+ p ,  .new
+{
+color: aquamarine;
+}
+
+#header {
+     text-align: center;
+    text-transform:capitalize;
+    border-width: 12px;
+    border-color: rgba(206, 15, 15, 0.549);
+    border-style: solid;
+}
+ul li {
+    color: red;
+    font-size: larger;
+}
+a:link{
+    color: black;
+}
+a:visited {
+    color: gold;
+}
+a:hover{
+    color: #800080;
+}
+a:active{
+    color: rgb(58, 37, 151);
+}
+p {
+    font-family: serif;
+    font-size: 1.3em;
+    text-indent: 25px;
+}
+.new2 {
+    font-style: italic;
+   
+}
+.new3 {
+    font-weight: bold;
+    text-decoration:underline;
+    color: black;
+    
+}
+ ul {
+     list-style-type: upper-roman;
+ }
